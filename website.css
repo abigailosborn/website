@@ -4,3 +4,8 @@ body{
 button{
   background-color: bcff8a;
 }
+img{
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
