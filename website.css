@@ -11,5 +11,8 @@ img{
 }
 h1.name{
 	background-color: d38aff;
+	color: white;
+	margin: auto;
+	width: 50%;
 }
 
